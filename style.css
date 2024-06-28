@@ -1,0 +1,40 @@
+*{
+    height: 100px;
+    width: 500px;
+}
+.Dharani{
+    background-color:blanchedalmond ;
+}
+.Tejaswini{
+    background-color: aqua;
+}
+.Reshmitha{
+    background-color: greenyellow;
+}
+.Hemitha{
+    background-color: blue;
+}
+.Lishitha{
+    background-color: blueviolet;
+}
+#id1{
+    background-color: brown;
+}
+#id2{
+    background-color: grey;
+}
+#id3{
+    background-color: green;
+}
+#id4{
+    background-color: palevioletred;
+}
+#id5{
+    background-color: pink;
+}
+tr{
+    background-color: blanchedalmond;
+}
+.sun,.moon,.earth,.air,.water{
+    background-color: pink;
+}
